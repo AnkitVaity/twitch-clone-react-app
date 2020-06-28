@@ -1,0 +1,38 @@
+{
+  "streams": [
+    {
+      "title": "MyStream",
+      "description": "This is  a great stream",
+      "id": 1
+    },
+    {
+      "title": "Yoga session",
+      "description": "purify your body on Yoda day",
+      "id": 3
+    },
+    {
+      "title": "Quarantine Workout",
+      "description": "Lets get jacked up real fast.",
+      "userId": "113481602084445544161",
+      "id": 4
+    },
+    {
+      "title": "Sketching tips and tricks",
+      "description": "Draw like a pro",
+      "userId": "109522352597765214552",
+      "id": 5
+    },
+    {
+      "title": "Counter Strike live streaming",
+      "description": "Global Offence PC Gameplay",
+      "userId": "113481602084445544161",
+      "id": 6
+    },
+    {
+      "title": "Dota Streaming",
+      "description": "3hrs of live gaming.",
+      "userId": "109522352597765214552",
+      "id": 7
+    }
+  ]
+}
